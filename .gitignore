@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore zip files
+*.zip
+
+# ignore VS Code folder
+.vscode
